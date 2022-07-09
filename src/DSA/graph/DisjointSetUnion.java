@@ -1,4 +1,4 @@
-package DSA;
+package DSA.graph;
 
 public class DisjointSetUnion {
     public static void main(String[] args) {
