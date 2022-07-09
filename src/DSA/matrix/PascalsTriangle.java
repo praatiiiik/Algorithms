@@ -2,6 +2,9 @@ package DSA.matrix;
 
 import java.util.ArrayList;
 
+//Question  link
+//https://leetcode.com/problems/pascals-triangle/
+
 public class PascalsTriangle {
     public static void main(String[] args) {
 
