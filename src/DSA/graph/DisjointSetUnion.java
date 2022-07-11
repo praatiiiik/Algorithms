@@ -48,7 +48,7 @@ public class DisjointSetUnion {
             if (size[parentOf_a] < size[parentOf_b])
                 swap(parentOf_a, parentOf_b);
             parent[parentOf_b] = parentOf_a;
-            size[parentOf_a] += size[parentOf_a];
+            size[parentOf_a] += size[parentOf_b];
         }
     }
 
